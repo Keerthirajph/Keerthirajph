@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthirajph&label=Profile%20views&color=0e75b6&style=flat" alt="keerthirajph" /> </p>
 
 - 🔭 I’m currently working on **OHC**
-- 🌱 I’m currently eploring **Data/AI**
+- 🌱 I’m currently exploring **Data/AI**
 
 - 📝 I regularly write articles on [https://keerthiraj-su.medium.com](https://keerthiraj-su.medium.com)
 
